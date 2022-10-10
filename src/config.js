@@ -48,7 +48,15 @@ const PAGES_DATA = [
     title: "lepus数据库监控系统",
     subtitle: "lepus开源企业级数据库监控系统",
     url: "http://lepus.kanlon.ink",
-    icon: "https://www.xuxueli.com/doc/static/xxl-job/images/xxl-logo.jpg"
+    icon: "http://www.lepus.cc/wp-content/themes/kaikela/assets/img/tmp/logo-colored.png"
+  },
+  {
+    pageId: 5,
+    sortId: 1,
+    title: "zfile文件管理系统",
+    subtitle: "基于 Java 的在线网盘程序",
+    url: "http://zfile.kanlon.ink",
+    icon: "https://www.zfile.vip/assets/zfile-horizontal.abd5aec9.svg"
   }
 
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
