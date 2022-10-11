@@ -57,6 +57,14 @@ const PAGES_DATA = [
     subtitle: "基于 Java 的在线网盘程序",
     url: "http://zfile.kanlon.ink",
     icon: "https://www.zfile.vip/assets/zfile-horizontal.abd5aec9.svg"
+  },
+  {
+    pageId: 6,
+    sortId: 1,
+    title: "superset系统",
+    subtitle: "现代数据探索和可视化平台",
+    url: "http://superset.kanlon.ink",
+    icon: "https://superset.apache.org/img/superset-logo-horiz.svg"
   }
 
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
