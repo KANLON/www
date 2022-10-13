@@ -65,6 +65,14 @@ const PAGES_DATA = [
     subtitle: "现代数据探索和可视化平台",
     url: "http://superset.kanlon.ink",
     icon: "https://superset.apache.org/img/superset-logo-horiz.svg"
+  },
+  {
+    pageId: 7,
+    sortId: 1,
+    title: "redash系统",
+    subtitle: "开源BI工具",
+    url: "http://redash.kanlon.ink",
+    icon: "https://redash.io/assets/images/elements/redash-logo.svg"
   }
 
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
