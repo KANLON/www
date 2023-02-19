@@ -73,6 +73,14 @@ const PAGES_DATA = [
     subtitle: "开源BI工具",
     url: "http://redash.kanlon.ink",
     icon: "https://redash.io/assets/images/elements/redash-logo.svg"
+  },
+  {
+    pageId: 8,
+    sortId: 1,
+    title: "davinci系统",
+    subtitle: "DVaaS（Data Visualization as a Service）平台解决方案",
+    url: "http://davinci.kanlon.ink",
+    icon: "../assets/davinci-logo.svg"
   }
 
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
