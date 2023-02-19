@@ -13,6 +13,8 @@
 如果要开发，可以运行 yarn install 后 ，运行 `yarn serve`，即可修改源码立即展示，默认启动在8080端口
 
 
+要增加系统，需要在 `src/config.js` 文件中添加如下格式的json数据
+
 
 ```js
 [
