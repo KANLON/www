@@ -1,6 +1,6 @@
 # 个人的主页网站
 
-目前暂时用于做自己的首页，列举了一些自己的搭建的相关系统  [www.kanlon.ink](http://www.kanlon.ink)
+目前暂时用于做自己的首页，列举了一些自己的搭建的相关系统  [www.kanlon.top](http://www.kanlon.top)
 
 
 ## 部署安装
