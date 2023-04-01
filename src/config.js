@@ -23,7 +23,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "datart系统",
     subtitle: "可视化系统",
-    url: "http://datart.kanlon.ink",
+    url: "http://datart.kanlon.top",
     icon: "https://camo.githubusercontent.com/bbf4ef79f20364bbf1181ca8ef4d5038781f1c2fefb202af2e8f377bcf6bb3cd/68747470733a2f2f72756e6e696e672d656c657068616e742e6769746875622e696f2f6461746172742d646f63732f696d616765732f61626f75742f6c6f676f5f776974685f746578742e6a7067"
   },
   {
@@ -31,7 +31,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "cfile服务",
     subtitle: "文件上传管理服务",
-    url: "http://cfile.kanlon.ink",
+    url: "http://cfile.kanlon.top",
     icon: ""
   },
   {
@@ -39,7 +39,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "xxl-job调度管理系统",
     subtitle: "分布式任务调度平台xxl-job",
-    url: "http://xxl-job.kanlon.ink",
+    url: "http://xxl-job.kanlon.top",
     icon: "https://www.xuxueli.com/doc/static/xxl-job/images/xxl-logo.jpg"
   },
   {
@@ -47,7 +47,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "lepus数据库监控系统",
     subtitle: "lepus开源企业级数据库监控系统",
-    url: "http://lepus.kanlon.ink",
+    url: "http://lepus.kanlon.top",
     icon: "http://www.lepus.cc/wp-content/themes/kaikela/assets/img/tmp/logo-colored.png"
   },
   {
@@ -55,7 +55,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "zfile文件管理系统",
     subtitle: "基于 Java 的在线网盘程序",
-    url: "http://zfile.kanlon.ink",
+    url: "http://zfile.kanlon.top",
     icon: "https://www.zfile.vip/assets/zfile-horizontal.abd5aec9.svg"
   },
   {
@@ -63,7 +63,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "superset系统",
     subtitle: "现代数据探索和可视化平台",
-    url: "http://superset.kanlon.ink",
+    url: "http://superset.kanlon.top",
     icon: "https://superset.apache.org/img/superset-logo-horiz.svg"
   },
   {
@@ -71,7 +71,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "redash系统",
     subtitle: "开源BI工具",
-    url: "http://redash.kanlon.ink",
+    url: "http://redash.kanlon.top",
     icon: "https://redash.io/assets/images/elements/redash-logo.svg"
   },
   {
@@ -79,8 +79,8 @@ const PAGES_DATA = [
     sortId: 1,
     title: "davinci系统",
     subtitle: "DVaaS（Data Visualization as a Service）平台解决方案",
-    url: "http://davinci.kanlon.ink",
-    icon: "./assets/davinci-logo.svg"
+    url: "http://davinci.kanlon.top",
+    icon: "https://edp963.github.io/davinci/assets/images/logo.svg"
   }
 
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
