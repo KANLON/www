@@ -81,6 +81,14 @@ const PAGES_DATA = [
     subtitle: "DVaaS（Data Visualization as a Service）平台解决方案",
     url: "http://davinci.kanlon.top",
     icon: "https://edp963.github.io/davinci/assets/images/logo.svg"
+  },
+  {
+    pageId: 9,
+    sortId: 1,
+    title: "Metabase系统",
+    subtitle: "为公司中的每个人提供商业智能和分析的最简单、最快的方法😋",
+    url: "http://metabase.kanlon.top",
+    icon: "https://www.metabase.com/images/logo.svg"
   }
 
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
